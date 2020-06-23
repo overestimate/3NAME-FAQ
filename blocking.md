@@ -1,4 +1,4 @@
-# 3Name FAQ
+# 3NAME FAQ
 
 ## What is blocking?
 
@@ -13,4 +13,4 @@ If you know how, sure! You'll need to code a blocker. :)
 Someone called omar#1337 on Discord.
 
 [Back to Home](index.html)
-*3Name rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
+*3NAME rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
