@@ -1,4 +1,4 @@
-#3Name FAQ
+#3 Name FAQ
 
 ## How to code a sniper
 
@@ -35,5 +35,5 @@ Content-Length: 0
 
 ```
 
-[Back to Home](tythedebugger.github.io/3name-faq/)
-*3Name rights belong to [Jamsheed Mistri](jmistri.com), this is only a site for common questions.*
+[Back to Home](/)
+*3Name rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
