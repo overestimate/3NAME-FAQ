@@ -10,7 +10,7 @@ If you know how, sure! You'll need to code a blocker. :)
 
 ## Why are all the three character names being blocked?
 
-Someone called Omar#1337 on Discord.
+Someone called omar#1337 on Discord.
 
 [Back to Home](index.html)
 *3Name rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
