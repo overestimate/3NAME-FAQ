@@ -12,5 +12,5 @@ If you know how, sure! You'll need to code a blocker. :)
 
 Someone called Omar#1337 on Discord.
 
-[Back to Home](tythedebugger.github.io/3name-faq/)
-*3Name rights belong to [Jamsheed Mistri](jmistri.com), this is only a site for common questions.*
+[Back to Home](/)
+*3Name rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
