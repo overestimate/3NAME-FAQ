@@ -12,5 +12,5 @@ If you know how, sure! You'll need to code a blocker. :)
 
 Someone called Omar#1337 on Discord.
 
-[Back to Home](/)
+[Back to Home](index.html)
 *3Name rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
