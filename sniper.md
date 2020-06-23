@@ -35,5 +35,5 @@ Content-Length: 0
 
 ```
 
-[Back to Home](/)
+[Back to Home](index.html)
 *3Name rights belong to [Jamsheed Mistri](http://jmistri.com), this is only a site for common questions.*
