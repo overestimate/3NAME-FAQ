@@ -1,4 +1,4 @@
-#3 Name FAQ
+# 3Name FAQ
 
 ## How to code a sniper
 
