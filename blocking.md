@@ -1,4 +1,4 @@
-#3Name FAQ
+# 3Name FAQ
 
 ## What is blocking?
 
