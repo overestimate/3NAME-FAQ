@@ -14,7 +14,7 @@ First off, you will need:
 
 All of these requests use a bearer token from the site. Bearer tokens have a max life of 2 hours. You may try to use [this](https://wiki.vg/Authentication#Refresh) to keep them alive for longer, but I haven't had any success.
 
-Information sourced from (here)[https://wiki.vg/Mojang_API].
+Information sourced from [here](https://wiki.vg/Mojang_API).
 
 All of the requests below go to `https://api.mojang.com`.
 
